@@ -1,0 +1,481 @@
+[
+    {
+        "id": "genhoer",
+        "title": "Genhør",
+        "categories": ["development", "audio", "design"],
+        "text": "Kulturhistorisk lydinstallationer der tager udgangspunkt i stedspecifik kulturhistorie.",
+        "image": "https://thomaseg.dk/media/image/genhoer_grindsted_station.jpeg",
+        "shortVideo": "https://thomaseg.dk/media/video/short/ggs_short.mp4",
+        "longVideo": "https://thomaseg.dk/media/video/short/ggs_short.mp4",
+        "hasSound": "false",
+        "tags": [
+            {
+                "category": "development",
+                "tags": "c++, pure data, bela board, microwave sensor"
+            },
+            {
+                "category": "audio",
+                "tags": "reallyd, foley, komposition, kvadrofoni"
+            },
+            {
+                "category": "design",
+                "tags": "oplevelsesdesign, designworkshop, projektstyring"
+            }
+        ],
+        "images": [
+            "https://thomaseg.dk/media/images/genhoer_grindsted_station/ggs_00.JPG",
+            "https://thomaseg.dk/media/images/genhoer_grindsted_station/ggs_01.JPG",
+            "https://thomaseg.dk/media/images/genhoer_grindsted_station/ggs_02.jpeg",
+            "https://thomaseg.dk/media/images/genhoer_grindsted_station/ggs_03.jpg"
+        ]
+    },
+    {
+        "id": "hoerbar-v-3-1",
+        "title": "Hørbar.dk 3.1",
+        "categories": ["development", "design"],
+        "text": "Ny hjemmeside til Hørbar.",
+        "image": "https://thomaseg.dk/media/image/hoerbar-3-1.png",
+        "shortVideo": "https://thomaseg.dk/media/video/short/hoerbar_v3_short.mp4",
+        "longVideo": "https://thomaseg.dk/media/video/long/hoerbar_3-1_long.mp4",
+        "hasSound": "false",
+        "tags": [
+            {
+                "category": "development",
+                "tags": "HTML, CSS, JavaScript, JSON"
+            },
+            {
+                "category": "design",
+                "tags": "UI, Webdesign, Grafisk design, wireframe, Figma, responsive"
+            }
+        ]
+    },
+    {
+        "id": "ildhu-cph",
+        "title": "Ildhu CPH",
+        "categories": ["audio"],
+        "text": "Produktion af brandmusik og lydlogo til virksomheden Ildhu CPH.",
+        "image": "https://thomaseg.dk/media/image/ildhu_cph.jpg",
+        "shortVideo": "https://thomaseg.dk/media/video/short/ildhu_cph_short.mp4",
+        "longVideo": "https://thomaseg.dk/media/video/long/ildhu_cph.mp4",
+        "hasSound": "true",
+        "tags": [
+            {
+                "category": "audio",
+                "tags": "Lydbranding, musik, komposition, lydlogo"
+            }
+        ]
+    },
+    {
+        "id": "dynakustisk",
+        "title": "Dynakustisk",
+        "categories": ["development", "audio", "design"],
+        "text": "Designprototype der udforsker og præsenterer en dynamisk tilgang til akustisk behandling, ved at gøre brug af adaptive, additive og automatiske metoder. Hvorvidt et rums akustik findes god eller dårlig er relativ til den aktivitet, der udspiller sig i det pågældende rum. Akustik er udtalt statisk, mens menneskelig aktivitet er dynamisk. 'Dynakustisk' er en materialisering af idéen om at kunne skabe varierende akustik, der dynamisk tilpasser sig aktiviterne i et rum.",
+        "image": "https://thomaseg.dk/media/image/dynakustisk.jpg",
+        "shortVideo": "https://thomaseg.dk/media/video/short/dynakustisk_short.mp4",
+        "longVideo": "https://thomaseg.dk/media/video/long/dynakustisk.mp4",
+        "hasSound": "false",
+        "tags": [
+            {
+                "category": "development",
+                "tags": "C++, Arduino, sound sensor, DC motor, LDR, LED"
+            },
+            {
+                "category": "audio",
+                "tags": "Adaptiv akustik, Soundscape, Lydmiljø"
+            },
+            {
+                "category": "design",
+                "tags": "Prototyping, produktdesign, physical computing"
+            }
+        ],
+        "images": [
+            "https://thomaseg.dk/media/images/dynakustisk/dynakustisk_00.png",
+            "https://thomaseg.dk/media/images/dynakustisk/dynakustisk_01.png",
+            "https://thomaseg.dk/media/images/dynakustisk/dynakustisk_02.png",
+            "https://thomaseg.dk/media/images/dynakustisk/dynakustisk_03.png"
+        ]
+    },
+    {
+        "id": "stoiske-sfaerer",
+        "title": "Stoiske Sfærer",
+        "categories": ["development", "audio", "design"],
+        "text": "Et hovedtema i den stoiske filosofi er kontrol. Værket her præsentere dette tema, ved at lade deltagere lytte til og manipulere et musikalsk lydbillede, via en minimalistisk brugerflade. En stoiker vil sige, at menneskets kontrolsfære består af bedømmelser og handlinger. I værket udpensles dette ved at minimere deltagerens handlingsmuligheder, således at kontrolsfæren fremstår tydeligere. Lydbilledet lader sig ikke fuldt ud kontrollere, men blot variere baseret på deltagerens handlinger og dennes efterfølgende bedømmelse af resultatet.",
+        "image": "https://thomaseg.dk/media/image/stoiske_sfære.jpg",
+        "shortVideo": "https://thomaseg.dk/media/video/short/stoiske_sf%C3%A6re_short.mp4",
+        "longVideo": "https://thomaseg.dk/media/video/long/stoiske_sf%C3%A6re.mp4",
+        "hasSound": "true",
+        "tags": [
+            {
+                "category": "development",
+                "tags": "c++, Arduino, MAX 8, LDR"
+            },
+            {
+                "category": "audio",
+                "tags": "Lydkunst, komposition, soundscape, musik"
+            },
+            {
+                "category": "design",
+                "tags": "Prototyping, mock-up, physical computing, Autodesk, 3D modeling"
+            }
+        ],
+        "images": [
+            "https://thomaseg.dk/media/images/stoic_spheres/ss_00.png",
+            "https://thomaseg.dk/media/images/stoic_spheres/ss_01.png",
+            "https://thomaseg.dk/media/images/stoic_spheres/ss_02.png",
+            "https://thomaseg.dk/media/images/stoic_spheres/ss_04.png",
+            "https://thomaseg.dk/media/images/stoic_spheres/ss_05.png"
+        ]
+    },
+    {
+        "id": "hoerbar-v-2-4",
+        "title": "Hørbar.dk 2.4",
+        "categories": ["development", "design"],
+        "text": "Hjemmeside til HØRBAR.",
+        "image": "https://thomaseg.dk/media/image/hoerbar-2-4.png",
+        "shortVideo": "https://thomaseg.dk/media/video/short/hoerbar_v2_short.mp4",
+        "longVideo": "https://thomaseg.dk/media/video/long/hoerbar_2-4_long.mp4",
+        "hasSound": "false",
+        "tags": [
+            {
+                "category": "development",
+                "tags": "HTML, CSS, JavaScript, JSON, PHP"
+            },
+            {
+                "category": "design",
+                "tags": "UI, Grafisk design, webdesign, responsive, animation, web audio API, Canva"
+            }
+        ]
+    },
+    {
+        "id": "polius-remake",
+        "title": "Polius (remake)",
+        "categories": ["audio"],
+        "text": "Remake af reallyd og musik til animationskortfilmen 'Poilus'.",
+        "image": "https://thomaseg.dk/media/image/poilus_remake.jpg",
+        "shortVideo": "https://thomaseg.dk/media/video/short/polius_short.mp4",
+        "longVideo": "https://thomaseg.dk/media/video/long/poilus_remake.mp4",
+        "hasSound": "true",
+        "tags": [
+            {
+                "category": "audio",
+                "tags": "Filmmusik, reallyde, komposition, foley, Logic Pro"
+            }
+        ]
+    },
+    {
+        "id": "thomaseg-v-1-0",
+        "title": "Thomaseg.dk 1.0",
+        "categories": ["development", "design"],
+        "text": "Min tidligere portfolio-hjemmeside.",
+        "image": "https://thomaseg.dk/media/image/thomaseg-1.png",
+        "shortVideo": "https://thomaseg.dk/media/video/short/thomaseg_v1_short.mp4",
+        "longVideo": "https://thomaseg.dk/media/video/long/thomaseg_1_long.mp4",
+        "hasSound": "false",
+        "tags": [
+            {
+                "category": "development",
+                "tags": "HTML, CSS, JavaScript, JSON"
+            },
+            {
+                "category": "design",
+                "tags": "Webddesign, UI, Figma, wireframe, responsive"
+            }
+        ]
+    },
+    {
+        "id": "mind-diver",
+        "title": "Mind Diver",
+        "categories": ["development", "audio"],
+        "text": "Et romantisk detektivspil, hvori man indtager rollen som minde-efterforsker. Ved at dykke ned i klientens sind opklares mysteriet om hendes kærestes forsvinden. Lydsiden er udarbejdet af en række lyddesignere samt en komponist. Under projektet arbejdede jeg hovedsageligt med spillets soundscape, reallyde og implementeringen af lyde via FMOD og Unity. Spillet blev i 2023 nomineret til 'Best Student Game' ved 'Independent Games Festival'.",
+        "image": "https://thomaseg.dk/media/image/mind_diver_spil.jpg",
+        "shortVideo": "https://thomaseg.dk/media/video/short/minddiver_short.mp4",
+        "longVideo": "https://thomaseg.dk/media/video/long/mind_diver.mp4",
+        "hasSound": "true",
+        "tags": [
+            {
+                "category": "development",
+                "tags": "C#, Unity, agil udvikling"
+            },
+            {
+                "category": "audio",
+                "tags": "Game audio, FMOD, lyddesign"
+            }
+        ]
+    },
+    {
+        "id": "boligportal",
+        "title": "BoligPortal",
+        "categories": ["audio"],
+        "text": "Produktion af brandmusik og lydlogo til BoligPortal.",
+        "image": "https://thomaseg.dk/media/image/boligportal.jpg",
+        "shortVideo": "https://thomaseg.dk/media/video/short/boligportal_short.mp4",
+        "longVideo": "https://thomaseg.dk/media/video/long/boligportal.mp4",
+        "hasSound": "true",
+        "tags": [
+            {
+                "category": "audio",
+                "tags": "Lydbranding, lydlogo, brandmusik, komposition"
+            }
+        ]
+    },
+    {
+        "id": "11012",
+        "title": "11.012(±22)m 108,6 MPa",
+        "categories": ["development", "audio"],
+        "text": "Hvordan opfører lyd sig hvis man lader den synke til bunds i Marianergraven? Dette digitale værk fremfører en abstrakt fortolkning af denne rejse ned i dybet. En lydfil loades til værket, hvorefter en frekvensanalyse skaber tonalt grundlag for en generativ synthesizer. Herefter udsættes lydfilen i tiltagende grad for bl.a. kompression (tryk), rumklang (lys) og EQ (temperatur) på vej til havbunden.",
+        "image": "https://thomaseg.dk/media/image/11012.jpg",
+        "shortVideo": "https://thomaseg.dk/media/video/short/11012_short.mp4",
+        "longVideo": "https://thomaseg.dk/media/video/long/11012.mp4",
+        "hasSound": "true",
+        "tags": [
+            {
+                "category": "development",
+                "tags": "JS, HTML, CSS, C++"
+            },
+            {
+                "category": "audio",
+                "tags": "Akustik, lyddesign, komposition, musik"
+            },
+            {
+                "category": "design",
+                "tags": "Workshop, prototyping, mock-up, SCRUM"
+            }
+        ]
+    },
+    {
+        "id": "windfall",
+        "title": "Windfall",
+        "categories": ["development", "audio"],
+        "text": "Procedural-generated exploration indiespil, med fokus på hurtig og flydende bevægelse. Som spiller rejser man gennem en iturevet verden for at forhindre dens totale destruktion. Spillet er udviklet under et DADIU-forløb på Den Danske Filmskole. Her stod jeg for lyddesign (soundscape, lydeffekter, osv.), men også audio-programmering og implementering af musik og lyd i Wwise og Unity.",
+        "image": "https://thomaseg.dk/media/image/windfall_spil.jpg",
+        "shortVideo": "https://thomaseg.dk/media/video/short/windfall_short.mp4",
+        "longVideo": "https://thomaseg.dk/media/video/long/windfall.mp4",
+        "hasSound": "true",
+        "tags": [
+            {
+                "category": "development",
+                "tags": "C#, Unity, agil udvikling"
+            },
+            {
+                "category": "audio",
+                "tags": "Game audio, Wwise, lyddesign, adaptiv musik"
+            }
+        ]
+    },
+    {
+        "id": "sonificering-af-iss",
+        "title": "Sonificering af ISS",
+        "categories": ["development", "audio"],
+        "text": "Max-patch der lader brugeren aflytte afstanden mellem sig selv og Den Internationale Rumstation. At sonificere betyder at kommunikere information gennem lyd (uden brug af tale), og i dette Max-patch benyttes positionen af ISS i realtid til at udregne afstanden mellem brugeren og rumstationen. Denne afstand bliver derefter anvendt til at påvirke lydsyntese, -modulation og effekter.",
+        "image": "https://thomaseg.dk/media/image/sonificering_iss.jpg",
+        "shortVideo": "https://thomaseg.dk/media/video/short/sonificering_iss_short.mp4",
+        "longVideo": "https://thomaseg.dk/media/video/long/sonificering_iss.mp4",
+        "hasSound": "true",
+        "tags": [
+            {
+                "category": "development",
+                "tags": "API"
+            },
+            {
+                "category": "audio",
+                "tags": "Akustik, lyddesign, komposition, musik"
+            }
+        ],
+        "images": [
+            "https://thomaseg.dk/media/images/iss/iss_00.png",
+            "https://thomaseg.dk/media/images/iss/iss_01.png",
+            "https://thomaseg.dk/media/images/iss/iss_02.png",
+            "https://thomaseg.dk/media/images/iss/iss_03.png"
+        ]
+    },
+    {
+        "id": "cykellygte",
+        "title": "Parkeringslygten",
+        "categories": ["development", "design"],
+        "text": "Designprototype på cykellygte der guider brugeren til sikre parkeringsforhold.",
+        "image": "https://thomaseg.dk/media/image/parkeringslygten.jpg",
+        "shortVideo": "https://thomaseg.dk/media/video/short/parkeringslygten.mp4",
+        "longVideo": "https://thomaseg.dk/media/video/short/parkeringslygten.mp4",
+        "hasSound": "false",
+        "tags": [
+            {
+                "category": "development",
+                "tags": "Arduino, physical computing, IoT, C++"
+            },
+            {
+                "category": "design",
+                "tags": "prototyping, product design, explorative design, badideas 3.0, design sprint, feltstudier"
+            }
+        ],
+        "images": [
+            "https://thomaseg.dk/media/images/parkeringslygten/parkeringslygten_00.jpg",
+            "https://thomaseg.dk/media/images/parkeringslygten/parkeringslygten_01.png",
+            "https://thomaseg.dk/media/images/parkeringslygten/parkeringslygten_02.png",
+            "https://thomaseg.dk/media/images/parkeringslygten/parkeringslygten_04.png",
+            "https://thomaseg.dk/media/images/parkeringslygten/parkeringslygten_05.png"
+        ]
+    },
+    {
+        "id": "aleatorisk-blues",
+        "title": "Aleatorisk Blues",
+        "categories": ["development", "audio"],
+        "text": "Max-patch der ved brug af tilfældighed fremfører kontinuerligt, omskifteligt og varieret bluesklaver (som et MIDI-signal).",
+        "image": "https://thomaseg.dk/media/image/aleatorisk_blues.jpg",
+        "shortVideo": "https://thomaseg.dk/media/video/short/aleatorisk_blues_short.mp4",
+        "longVideo": "https://thomaseg.dk/media/video/long/aleatorisk_blues.mp4",
+        "hasSound": "true",
+        "tags": [
+            {
+                "category": "development",
+                "tags": "JS, HTML, CSS, C++"
+            },
+            {
+                "category": "audio",
+                "tags": "Akustik, lyddesign, komposition, musik"
+            }
+        ]
+    },
+    {
+        "id": "gender-neutralizer",
+        "title": "Gender Neutralizer",
+        "categories": ["development", "design"],
+        "text": "Chrome-extension der neutraliserer browseren for kønnede ord.",
+        "image": "https://thomaseg.dk/media/image/gender_neturalizer.png",
+        "shortVideo": "https://thomaseg.dk/media/video/short/gender_neutralizer.mp4",
+        "longVideo": "https://thomaseg.dk/media/video/short/gender_neutralizer.mp4",
+        "hasSound": "false",
+        "tags": [
+            {
+                "category": "development",
+                "tags": "Browser extension, javascript, html, json"
+            },
+            {
+                "category": "design",
+                "tags": "prototyping, UX, experimental design"
+            }
+        ]
+    },
+    {
+        "id": "one-button-synthesizer",
+        "title": "One button synthesizer",
+        "categories": ["development", "audio"],
+        "text": "Udforskning af en minimalistisk brugerflade til lydsyntese og -manipulation.",
+        "image": "https://thomaseg.dk/media/image/one_button.jpg",
+        "shortVideo": "https://thomaseg.dk/media/video/short/one_button_synth_short.mp4",
+        "longVideo": "https://thomaseg.dk/media/video/long/one_button.mp4",
+        "hasSound": "true",
+        "tags": [
+            {
+                "category": "development",
+                "tags": "JS, HTML, CSS, C++"
+            },
+            {
+                "category": "audio",
+                "tags": "Akustik, lyddesign, komposition, musik"
+            }
+        ]
+    },
+    {
+        "id": "motion-tracking-music",
+        "title": "Motion tracking music",
+        "categories": ["development", "audio"],
+        "text": "Max-patch der gør brug af kamerainput til at aktivere forskellige instrumenter i et stykke musik.",
+        "image": "https://thomaseg.dk/media/image/motion_tracking.jpg",
+        "shortVideo": "https://thomaseg.dk/media/video/short/motion_tracking_music_short.mp4",
+        "longVideo": "https://thomaseg.dk/media/video/long/motion_tracking.mp4",
+        "hasSound": "true",
+        "tags": [
+            {
+                "category": "development",
+                "tags": "motion-tracking, MAX, kamerainput"
+            },
+            {
+                "category": "audio",
+                "tags": "komposition, musik"
+            }
+        ]
+    },
+    {
+        "id": "alma-remake",
+        "title": "Alma (remake)",
+        "categories": ["audio"],
+        "text": "Remake af reallyde og musik til uddrag af animationskortfilmen 'Alma'.",
+        "image": "https://thomaseg.dk/media/image/alma_remake.jpg",
+        "shortVideo": "https://thomaseg.dk/media/video/short/alma_short.mp4",
+        "longVideo": "https://thomaseg.dk/media/video/long/alma_remake.mp4",
+        "hasSound": "true",
+        "tags": [
+            {
+                "category": "audio",
+                "tags": "Filmmusik, reallyde, komposition, foley, Logic Pro"
+            }
+        ]
+    },
+    {
+        "id": "gestik-og-stemmestyret-daw",
+        "title": "Gestik- og stemmestyret DAW",
+        "categories": ["development", "audio", "design"],
+        "text": "Traditionelle DAWs (Digital Audio Workstations) er begrænset af computerens brugerflade og skærm, hvilket kan medføre at lydproduktion bliver mere visuelt end auditivt orienteret. Denne designprototype udforsker en innovativ tilgang, hvor brugeren kan mixe lyd og musik ved hjælp af gestikulation og stemmekommandoer, uden at se på en skærm. Prototypen giver mulighed for en mere intuitiv og hørelsesbaseret arbejdsproces i lydproduktion",
+        "image": "https://thomaseg.dk/media/image/gestik_og_stemmestyret_daw.jpg",
+        "shortVideo": "https://thomaseg.dk/media/video/short/gestik_stemmestyret_daw_short.mp4",
+        "longVideo": "https://thomaseg.dk/media/video/long/gestik_og_stemmestyret_daw.mp4",
+        "hasSound": "true",
+        "tags": [
+            {
+                "category": "development",
+                "tags": "HTML, Processing, color tracking, Websocket"
+            },
+            {
+                "category": "audio",
+                "tags": "Lydproduktion, Logic Pro, MIDI-control"
+            },
+            {
+                "category": "design",
+                "tags": "Designworkshop, prototyping, designproces, UX"
+            }
+        ],
+        "images": [
+            "https://thomaseg.dk/media/images/gesture_daw/gesture_daw_00.png",
+            "https://thomaseg.dk/media/images/gesture_daw/gesture_daw_01.png",
+            "https://thomaseg.dk/media/images/gesture_daw/gesture_daw_02.png",
+            "https://thomaseg.dk/media/images/gesture_daw/gesture_daw_03.png",
+            "https://thomaseg.dk/media/images/gesture_daw/gesture_daw_04.png"
+        ]
+    },
+    {
+        "id": "blaalagt",
+        "title": "Blåtlagt",
+        "categories": ["audio"],
+        "text": "Musik (jingle) til Venstres podcast 'Blåtlagt' som nu er udgået.",
+        "image": "https://thomaseg.dk/media/image/blaatlagt.png",
+        "shortVideo": "https://thomaseg.dk/media/video/short/blaatlagt_short.mp4",
+        "longVideo": "https://thomaseg.dk/media/video/long/venstre.mp4",
+        "hasSound": "true",
+        "tags": [
+            {
+                "category": "audio",
+                "tags": "Podcast, lydlogo, musik, jingle, komposition"
+            }
+        ]
+    },
+    {
+        "id": "dokkball",
+        "title": "DokkBall",
+        "categories": ["design"],
+        "text": "Designprojekt centreret omkring trappen ved Dokk1 i Aarhus, som udmundede i et interaktivt designforslag der aktiverer rummet foran bygningen.",
+        "image": "https://thomaseg.dk/media/image/dokkball.png",
+        "shortVideo": "https://thomaseg.dk/media/video/short/dokkball.mp4",
+        "longVideo": "https://thomaseg.dk/media/video/short/dokkball.mp4",
+        "hasSound": "false",
+        "tags": [
+            {
+                "category": "design",
+                "tags": "Designworkshop, prototyping, visualisering, designproces, UX"
+            }
+        ],
+        "images": [
+            "https://thomaseg.dk/media/images/dokkball/dokkball_00.jpg",
+            "https://thomaseg.dk/media/images/dokkball/dokkball_01.png"
+        ]
+    }
+]
