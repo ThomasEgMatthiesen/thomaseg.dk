@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/thomaseg.dk/static/css/main.fb1bc1db.css",
+    "main.js": "/thomaseg.dk/static/js/main.c6816fad.js",
+    "static/media/foto_03.jpg": "/thomaseg.dk/static/media/foto_03.24edfd34bb43cb43d5e2.jpg",
+    "static/media/foto_02.JPG": "/thomaseg.dk/static/media/foto_02.4caa13628f96f11169b3.JPG",
+    "static/media/profile.jpeg": "/thomaseg.dk/static/media/profile.0a4441bef65c213c27b5.jpeg",
+    "static/media/foto_04.JPG": "/thomaseg.dk/static/media/foto_04.cb36ebd3b52c7b0d63fa.JPG",
+    "static/media/foto_01.jpeg": "/thomaseg.dk/static/media/foto_01.04628e267c76265e8ccc.jpeg",
+    "static/media/film.svg": "/thomaseg.dk/static/media/film.df84bacf078cad180a1917bff1fae973.svg",
+    "static/media/design.svg": "/thomaseg.dk/static/media/design.cadcf79ed157e34587c476dd02f050ea.svg",
+    "static/media/audio.svg": "/thomaseg.dk/static/media/audio.e38f84b1060b0c7d8ad8d6316910151d.svg",
+    "static/media/audio_off.svg": "/thomaseg.dk/static/media/audio_off.903337d3d6478fa7811d7afb4d633167.svg",
+    "static/media/filter.svg": "/thomaseg.dk/static/media/filter.3b82ca486ffe1d8cbc17625211b1cdea.svg",
+    "static/media/development.svg": "/thomaseg.dk/static/media/development.6fba91290ebc0dc935fbc7f34f3c94cb.svg",
+    "static/media/audio_on.svg": "/thomaseg.dk/static/media/audio_on.bc9cec15802784a9641d010e974f9e89.svg",
+    "index.html": "/thomaseg.dk/index.html",
+    "static/media/open.svg": "/thomaseg.dk/static/media/open.07dc22b684a1b4827cd5bb14fa7101d5.svg",
+    "static/media/arrow_back.svg": "/thomaseg.dk/static/media/arrow_back.aba34f9457503e5aa8fbdc1ba905d02f.svg",
+    "static/media/close.svg": "/thomaseg.dk/static/media/close.3ce24517168b159f62dfb7d4b5756b5a.svg",
+    "static/media/arrow_up.svg": "/thomaseg.dk/static/media/arrow_up.9fc7ffbed5e27827b289dcc67deab2b4.svg",
+    "static/media/arrow_down.svg": "/thomaseg.dk/static/media/arrow_down.12a8476f9844eec2f2be95acef2cf5fb.svg",
+    "main.fb1bc1db.css.map": "/thomaseg.dk/static/css/main.fb1bc1db.css.map",
+    "main.c6816fad.js.map": "/thomaseg.dk/static/js/main.c6816fad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb1bc1db.css",
+    "static/js/main.c6816fad.js"
+  ]
+}
