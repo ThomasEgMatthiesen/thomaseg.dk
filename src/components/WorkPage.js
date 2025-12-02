@@ -33,7 +33,7 @@ const WorkPage = () => {
                 <Link to="/" >
                     <div className='flex flex-col p-4 sm:p-0 sm:sticky top-12'>
                         <button className="border-2 border-black p-2.5 bg-white sm:hover:shadow-lg">
-                            <img src={backArrowIcon} className="size-6" />
+                            <img src={backArrowIcon} alt="" className="size-6" />
                         </button>
                     </div>
                 </Link>
@@ -77,7 +77,7 @@ const WorkPage = () => {
                         <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 sm:gap-6 lg:gap-12 mt-8">
                             {project.images.map((image, index) => (
                                 <div key={index} className="bg-green-100 overflow-hidden border-2 border-black">
-                                    <img src={image} alt={`Project image ${index + 1}`} className="size-full object-cover" />
+                                    <img src={image} alt={`Project ${index + 1}`} className="size-full object-cover" />
                                 </div>
                             ))}
                         </div>
