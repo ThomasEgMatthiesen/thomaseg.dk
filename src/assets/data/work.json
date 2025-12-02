@@ -3,10 +3,10 @@
         "id": "genhoer ja",
         "title": "Genhør",
         "categories": ["development", "audio", "design"],
-        "text": "Kulturhistorisk lydinstallationer der tager udgangspunkt i stedspecifik kulturhistorie.",
-        "image": "https://thomaseg.dk/media/image/genhoer_grindsted_station.jpeg",
-        "shortVideo": "https://drive.google.com/file/d/1WdMf-zkdewBjyLH_CHPw17Qd22zNC7aK/view?usp=sharing",
-        "longVideo": "https://thomaseg.dk/media/video/short/ggs_short.mp4",
+        "text": "Kulturhistorisk lydinstallationer der tager udgangspunkt i stedspecifik kulturhistorie. Genhør er en nonprofitorganisation, der i samarbejde med lokale aktører engagerer unge i kulturskabelse og udstiller offentlig tilgængelig lydkunst, der styrker kendskabet til den stedbundne kulturarv og den nære danmarkshistorie. Vi fortolker fortidens liv og lydmiljø på lokalhistoriske lokaliteter og udstiller lydkunst som et ekko fra fortiden i autentiske fysiske rammer. De digitale værker – kompositoriske forløb sammensat af musik, reallyde, personlige anekdoter og arkiveret lydmateriale – afspilles fra rumlige lydanlæg, der lader de besøgende træde ind i et levende erindringsbillede.",
+        "image": "https://genhoerstorage.blob.core.windows.net/media/slotsgade-20/image-01.webp",
+        "shortVideo": "https://genhoerstorage.blob.core.windows.net/media/slotsgade-20/cover-video.mp4",
+        "longVideo": "https://genhoerstorage.blob.core.windows.net/media/slotsgade-20/cover-video.mp4",
         "hasSound": "false",
         "tags": [
             {
@@ -21,12 +21,6 @@
                 "category": "design",
                 "tags": "oplevelsesdesign, designworkshop, projektstyring"
             }
-        ],
-        "images": [
-            "https://thomaseg.dk/media/images/genhoer_grindsted_station/ggs_00.JPG",
-            "https://thomaseg.dk/media/images/genhoer_grindsted_station/ggs_01.JPG",
-            "https://thomaseg.dk/media/images/genhoer_grindsted_station/ggs_02.jpeg",
-            "https://thomaseg.dk/media/images/genhoer_grindsted_station/ggs_03.jpg"
         ]
     },
     {
@@ -34,7 +28,7 @@
         "title": "Hørbar.dk 3.1",
         "categories": ["development", "design"],
         "text": "Ny hjemmeside til Hørbar.",
-        "image": "https://thomaseg.dk/media/image/hoerbar-3-1.png",
+        "image": "",
         "shortVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/hoerbar_3-1_long.mp4",
         "longVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/hoerbar_3-1_long.mp4",
         "hasSound": "false",
@@ -54,7 +48,7 @@
         "title": "Ildhu CPH",
         "categories": ["audio"],
         "text": "Produktion af brandmusik og lydlogo til virksomheden Ildhu CPH.",
-        "image": "https://thomaseg.dk/media/image/ildhu_cph.jpg",
+        "image": "",
         "shortVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/ildhu_cph.mp4",
         "longVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/ildhu_cph.mp4",
         "hasSound": "true",
@@ -70,7 +64,7 @@
         "title": "Dynakustisk",
         "categories": ["development", "audio", "design"],
         "text": "Designprototype der udforsker og præsenterer en dynamisk tilgang til akustisk behandling, ved at gøre brug af adaptive, additive og automatiske metoder. Hvorvidt et rums akustik findes god eller dårlig er relativ til den aktivitet, der udspiller sig i det pågældende rum. Akustik er udtalt statisk, mens menneskelig aktivitet er dynamisk. 'Dynakustisk' er en materialisering af idéen om at kunne skabe varierende akustik, der dynamisk tilpasser sig aktiviterne i et rum.",
-        "image": "https://thomaseg.dk/media/image/dynakustisk.jpg",
+        "image": "",
         "shortVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/dynakustisk.mp4",
         "longVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/dynakustisk.mp4",
         "hasSound": "false",
@@ -87,12 +81,6 @@
                 "category": "design",
                 "tags": "Prototyping, produktdesign, physical computing"
             }
-        ],
-        "images": [
-            "https://thomaseg.dk/media/images/dynakustisk/dynakustisk_00.png",
-            "https://thomaseg.dk/media/images/dynakustisk/dynakustisk_01.png",
-            "https://thomaseg.dk/media/images/dynakustisk/dynakustisk_02.png",
-            "https://thomaseg.dk/media/images/dynakustisk/dynakustisk_03.png"
         ]
     },
     {
@@ -100,7 +88,7 @@
         "title": "Stoiske Sfærer",
         "categories": ["development", "audio", "design"],
         "text": "Et hovedtema i den stoiske filosofi er kontrol. Værket her præsentere dette tema, ved at lade deltagere lytte til og manipulere et musikalsk lydbillede, via en minimalistisk brugerflade. En stoiker vil sige, at menneskets kontrolsfære består af bedømmelser og handlinger. I værket udpensles dette ved at minimere deltagerens handlingsmuligheder, således at kontrolsfæren fremstår tydeligere. Lydbilledet lader sig ikke fuldt ud kontrollere, men blot variere baseret på deltagerens handlinger og dennes efterfølgende bedømmelse af resultatet.",
-        "image": "https://thomaseg.dk/media/image/stoiske_sfære.jpg",
+        "image": "",
         "shortVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/stoiske_sfære.mp4",
         "longVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/stoiske_sfære.mp4",
         "hasSound": "true",
@@ -117,13 +105,6 @@
                 "category": "design",
                 "tags": "Prototyping, mock-up, physical computing, Autodesk, 3D modeling"
             }
-        ],
-        "images": [
-            "https://thomaseg.dk/media/images/stoic_spheres/ss_00.png",
-            "https://thomaseg.dk/media/images/stoic_spheres/ss_01.png",
-            "https://thomaseg.dk/media/images/stoic_spheres/ss_02.png",
-            "https://thomaseg.dk/media/images/stoic_spheres/ss_04.png",
-            "https://thomaseg.dk/media/images/stoic_spheres/ss_05.png"
         ]
     },
     {
@@ -131,7 +112,7 @@
         "title": "Hørbar.dk 2.4",
         "categories": ["development", "design"],
         "text": "Hjemmeside til HØRBAR.",
-        "image": "https://thomaseg.dk/media/image/hoerbar-2-4.png",
+        "image": "",
         "shortVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/hoerbar_2-4_long.mp4",
         "longVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/hoerbar_2-4_long.mp4",
         "hasSound": "false",
@@ -151,7 +132,7 @@
         "title": "Polius (remake)",
         "categories": ["audio"],
         "text": "Remake af reallyd og musik til animationskortfilmen 'Poilus'.",
-        "image": "https://thomaseg.dk/media/image/poilus_remake.jpg",
+        "image": "",
         "shortVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/poilus_remake.mp4",
         "longVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/poilus_remake.mp4",
         "hasSound": "true",
@@ -167,7 +148,7 @@
         "title": "Thomaseg.dk 1.0",
         "categories": ["development", "design"],
         "text": "Min tidligere portfolio-hjemmeside.",
-        "image": "https://thomaseg.dk/media/image/thomaseg-1.png",
+        "image": "",
         "shortVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/thomaseg_1_long.mp4",
         "longVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/thomaseg_1_long.mp4",
         "hasSound": "false",
@@ -187,7 +168,7 @@
         "title": "Mind Diver",
         "categories": ["development", "audio"],
         "text": "Et romantisk detektivspil, hvori man indtager rollen som minde-efterforsker. Ved at dykke ned i klientens sind opklares mysteriet om hendes kærestes forsvinden. Lydsiden er udarbejdet af en række lyddesignere samt en komponist. Under projektet arbejdede jeg hovedsageligt med spillets soundscape, reallyde og implementeringen af lyde via FMOD og Unity. Spillet blev i 2023 nomineret til 'Best Student Game' ved 'Independent Games Festival'.",
-        "image": "https://thomaseg.dk/media/image/mind_diver_spil.jpg",
+        "image": "",
         "shortVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/mind_diver.mp4",
         "longVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/mind_diver.mp4",
         "hasSound": "true",
@@ -207,7 +188,7 @@
         "title": "BoligPortal",
         "categories": ["audio"],
         "text": "Produktion af brandmusik og lydlogo til BoligPortal.",
-        "image": "https://thomaseg.dk/media/image/boligportal.jpg",
+        "image": "",
         "shortVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/boligportal.mp4",
         "longVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/boligportal.mp4",
         "hasSound": "true",
@@ -223,7 +204,7 @@
         "title": "11.012(±22)m 108,6 MPa",
         "categories": ["development", "audio"],
         "text": "Hvordan opfører lyd sig hvis man lader den synke til bunds i Marianergraven? Dette digitale værk fremfører en abstrakt fortolkning af denne rejse ned i dybet. En lydfil loades til værket, hvorefter en frekvensanalyse skaber tonalt grundlag for en generativ synthesizer. Herefter udsættes lydfilen i tiltagende grad for bl.a. kompression (tryk), rumklang (lys) og EQ (temperatur) på vej til havbunden.",
-        "image": "https://thomaseg.dk/media/image/11012.jpg",
+        "image": "",
         "shortVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/11012.mp4",
         "longVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/11012.mp4",
         "hasSound": "true",
@@ -247,7 +228,7 @@
         "title": "Windfall",
         "categories": ["development", "audio"],
         "text": "Procedural-generated exploration indiespil, med fokus på hurtig og flydende bevægelse. Som spiller rejser man gennem en iturevet verden for at forhindre dens totale destruktion. Spillet er udviklet under et DADIU-forløb på Den Danske Filmskole. Her stod jeg for lyddesign (soundscape, lydeffekter, osv.), men også audio-programmering og implementering af musik og lyd i Wwise og Unity.",
-        "image": "https://thomaseg.dk/media/image/windfall_spil.jpg",
+        "image": "",
         "shortVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/windfall.mp4",
         "longVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/windfall_playthrough.mp4",
         "hasSound": "true",
@@ -267,7 +248,7 @@
         "title": "Sonificering af ISS",
         "categories": ["development", "audio"],
         "text": "Max-patch der lader brugeren aflytte afstanden mellem sig selv og Den Internationale Rumstation. At sonificere betyder at kommunikere information gennem lyd (uden brug af tale), og i dette Max-patch benyttes positionen af ISS i realtid til at udregne afstanden mellem brugeren og rumstationen. Denne afstand bliver derefter anvendt til at påvirke lydsyntese, -modulation og effekter.",
-        "image": "https://thomaseg.dk/media/image/sonificering_iss.jpg",
+        "image": "",
         "shortVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/sonificering_iss.mp4",
         "longVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/sonificering_iss.mp4",
         "hasSound": "true",
@@ -280,12 +261,6 @@
                 "category": "audio",
                 "tags": "Akustik, lyddesign, komposition, musik"
             }
-        ],
-        "images": [
-            "https://thomaseg.dk/media/images/iss/iss_00.png",
-            "https://thomaseg.dk/media/images/iss/iss_01.png",
-            "https://thomaseg.dk/media/images/iss/iss_02.png",
-            "https://thomaseg.dk/media/images/iss/iss_03.png"
         ]
     },
     {
@@ -293,7 +268,7 @@
         "title": "Parkeringslygten",
         "categories": ["development", "design"],
         "text": "Designprototype på cykellygte der guider brugeren til sikre parkeringsforhold.",
-        "image": "https://thomaseg.dk/media/image/parkeringslygten.jpg",
+        "image": "",
         "shortVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/parkeringslygten.mp4",
         "longVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/parkeringslygten.mp4",
         "hasSound": "false",
@@ -306,13 +281,6 @@
                 "category": "design",
                 "tags": "prototyping, product design, explorative design, badideas 3.0, design sprint, feltstudier"
             }
-        ],
-        "images": [
-            "https://thomaseg.dk/media/images/parkeringslygten/parkeringslygten_00.jpg",
-            "https://thomaseg.dk/media/images/parkeringslygten/parkeringslygten_01.png",
-            "https://thomaseg.dk/media/images/parkeringslygten/parkeringslygten_02.png",
-            "https://thomaseg.dk/media/images/parkeringslygten/parkeringslygten_04.png",
-            "https://thomaseg.dk/media/images/parkeringslygten/parkeringslygten_05.png"
         ]
     },
     {
@@ -320,7 +288,7 @@
         "title": "Aleatorisk Blues",
         "categories": ["development", "audio"],
         "text": "Max-patch der ved brug af tilfældighed fremfører kontinuerligt, omskifteligt og varieret bluesklaver (som et MIDI-signal).",
-        "image": "https://thomaseg.dk/media/image/aleatorisk_blues.jpg",
+        "image": "",
         "shortVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/aleatorisk_blues.mp4",
         "longVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/aleatorisk_blues.mp4",
         "hasSound": "true",
@@ -340,7 +308,7 @@
         "title": "Gender Neutralizer",
         "categories": ["development", "design"],
         "text": "Chrome-extension der neutraliserer browseren for kønnede ord.",
-        "image": "https://thomaseg.dk/media/image/gender_neturalizer.png",
+        "image": "",
         "shortVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/gender_neutralizer.mp4",
         "longVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/gender_neutralizer.mp4",
         "hasSound": "false",
@@ -360,7 +328,7 @@
         "title": "One button synthesizer",
         "categories": ["development", "audio"],
         "text": "Udforskning af en minimalistisk brugerflade til lydsyntese og -manipulation.",
-        "image": "https://thomaseg.dk/media/image/one_button.jpg",
+        "image": "",
         "shortVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/one_button.mp4",
         "longVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/one_button.mp4",
         "hasSound": "true",
@@ -380,7 +348,7 @@
         "title": "Motion tracking music",
         "categories": ["development", "audio"],
         "text": "Max-patch der gør brug af kamerainput til at aktivere forskellige instrumenter i et stykke musik.",
-        "image": "https://thomaseg.dk/media/image/motion_tracking.jpg",
+        "image": "",
         "shortVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/motion_tracking.mp4",
         "longVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/motion_tracking.mp4",
         "hasSound": "true",
@@ -400,7 +368,7 @@
         "title": "Alma (remake)",
         "categories": ["audio"],
         "text": "Remake af reallyde og musik til uddrag af animationskortfilmen 'Alma'.",
-        "image": "https://thomaseg.dk/media/image/alma_remake.jpg",
+        "image": "",
         "shortVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/alma_remake.mp4",
         "longVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/alma_remake.mp4",
         "hasSound": "true",
@@ -416,7 +384,7 @@
         "title": "Gestik- og stemmestyret DAW",
         "categories": ["development", "audio", "design"],
         "text": "Traditionelle DAWs (Digital Audio Workstations) er begrænset af computerens brugerflade og skærm, hvilket kan medføre at lydproduktion bliver mere visuelt end auditivt orienteret. Denne designprototype udforsker en innovativ tilgang, hvor brugeren kan mixe lyd og musik ved hjælp af gestikulation og stemmekommandoer, uden at se på en skærm. Prototypen giver mulighed for en mere intuitiv og hørelsesbaseret arbejdsproces i lydproduktion",
-        "image": "https://thomaseg.dk/media/image/gestik_og_stemmestyret_daw.jpg",
+        "image": "",
         "shortVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/gestik_og_stemmestyret_daw.mp4",
         "longVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/gestik_og_stemmestyret_daw.mp4",
         "hasSound": "true",
@@ -433,13 +401,6 @@
                 "category": "design",
                 "tags": "Designworkshop, prototyping, designproces, UX"
             }
-        ],
-        "images": [
-            "https://thomaseg.dk/media/images/gesture_daw/gesture_daw_00.png",
-            "https://thomaseg.dk/media/images/gesture_daw/gesture_daw_01.png",
-            "https://thomaseg.dk/media/images/gesture_daw/gesture_daw_02.png",
-            "https://thomaseg.dk/media/images/gesture_daw/gesture_daw_03.png",
-            "https://thomaseg.dk/media/images/gesture_daw/gesture_daw_04.png"
         ]
     },
     {
@@ -447,7 +408,7 @@
         "title": "Blåtlagt",
         "categories": ["audio"],
         "text": "Musik (jingle) til Venstres podcast 'Blåtlagt' som nu er udgået.",
-        "image": "https://thomaseg.dk/media/image/blaatlagt.png",
+        "image": "",
         "shortVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/venstre.mp4",
         "longVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/venstre.mp4",
         "hasSound": "true",
@@ -463,7 +424,7 @@
         "title": "DokkBall",
         "categories": ["design"],
         "text": "Designprojekt centreret omkring trappen ved Dokk1 i Aarhus, som udmundede i et interaktivt designforslag der aktiverer rummet foran bygningen.",
-        "image": "https://thomaseg.dk/media/image/dokkball.png",
+        "image": "",
         "shortVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/dokkball.mp4",
         "longVideo": "https://genhoerstorage.blob.core.windows.net/media/thomaseg/video/dokkball.mp4",
         "hasSound": "false",
@@ -472,10 +433,6 @@
                 "category": "design",
                 "tags": "Designworkshop, prototyping, visualisering, designproces, UX"
             }
-        ],
-        "images": [
-            "https://thomaseg.dk/media/images/dokkball/dokkball_00.jpg",
-            "https://thomaseg.dk/media/images/dokkball/dokkball_01.png"
         ]
     }
 ]
