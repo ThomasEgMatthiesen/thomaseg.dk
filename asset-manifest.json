@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/thomaseg.dk/static/css/main.fb1bc1db.css",
-    "main.js": "/thomaseg.dk/static/js/main.c6816fad.js",
+    "main.js": "/thomaseg.dk/static/js/main.880992c8.js",
     "static/media/foto_03.jpg": "/thomaseg.dk/static/media/foto_03.24edfd34bb43cb43d5e2.jpg",
     "static/media/foto_02.JPG": "/thomaseg.dk/static/media/foto_02.4caa13628f96f11169b3.JPG",
     "static/media/profile.jpeg": "/thomaseg.dk/static/media/profile.0a4441bef65c213c27b5.jpeg",
@@ -21,10 +21,10 @@
     "static/media/arrow_up.svg": "/thomaseg.dk/static/media/arrow_up.9fc7ffbed5e27827b289dcc67deab2b4.svg",
     "static/media/arrow_down.svg": "/thomaseg.dk/static/media/arrow_down.12a8476f9844eec2f2be95acef2cf5fb.svg",
     "main.fb1bc1db.css.map": "/thomaseg.dk/static/css/main.fb1bc1db.css.map",
-    "main.c6816fad.js.map": "/thomaseg.dk/static/js/main.c6816fad.js.map"
+    "main.880992c8.js.map": "/thomaseg.dk/static/js/main.880992c8.js.map"
   },
   "entrypoints": [
     "static/css/main.fb1bc1db.css",
-    "static/js/main.c6816fad.js"
+    "static/js/main.880992c8.js"
   ]
 }
