@@ -21,7 +21,7 @@ function Button({ icon, label, labelPos, onClick, xStyle, active }) {
       </button>
 
       {/* Label */}
-      {label && <div className={`absolute px-0.5 border-2 border-black sm:border-0 bg-white ${labelPos}`}>
+      {label && <div className={`absolute px-0.5 border-black sm:border-0 bg-white ${labelPos}`}>
           <p className={`whitespace-nowrap text-xs mt-0.5 ${hover ? '' : 'sm:hidden'}`}>{label}</p>
       </div>}
 

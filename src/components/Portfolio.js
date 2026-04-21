@@ -52,7 +52,7 @@ const Portfolio = () => {
                 </div>
 
                 {/* Show more or less button */}
-                <div className="relative flex justify-center bg-green-300">
+                <div className="relative flex justify-center">
                     <div className="absolute flex gap-4 -bottom-16 sm:-bottom-14 md:-bottom-16 lg:-bottom-20 z-20">
                         <Button icon={showAll ? ArrowUpIcon : ArrowDownIcon} label={showAll ? 'vis færre' : 'vis alle'} labelPos={'-bottom-6'} onClick={handleShowAll}/>
                     </div>
