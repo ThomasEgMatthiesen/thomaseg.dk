@@ -630,7 +630,7 @@ function ProjectLinks({ code, video, link }) {
                 href: code,
                 target: "_blank",
                 rel: "noopener noreferrer",
-                className: "btn btn-sm btn-square bg-base-100/80 hover:bg-base-100 border border-base-content/80 backdrop-blur-sm",
+                className: "btn btn-sm btn-square bg-base-100/80 hover:bg-base-100 border border-base-content/80 backdrop-blur-sm shadow-none",
                 title: "Se kode",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Hjemmesider$2f$thomaseg$2e$dk$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Hjemmesider$2f$thomaseg$2e$dk$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$code$2d$xml$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Code2$3e$__["Code2"], {
                     size: 16
@@ -648,7 +648,7 @@ function ProjectLinks({ code, video, link }) {
                 href: video,
                 target: "_blank",
                 rel: "noopener noreferrer",
-                className: "btn btn-sm btn-square bg-base-100/80 hover:bg-base-100 border border-base-content/80 backdrop-blur-sm",
+                className: "btn btn-sm btn-square bg-base-100/80 hover:bg-base-100 border border-base-content/80 backdrop-blur-sm shadow-none",
                 title: "Se video",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Hjemmesider$2f$thomaseg$2e$dk$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Hjemmesider$2f$thomaseg$2e$dk$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$clapperboard$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Clapperboard$3e$__["Clapperboard"], {
                     size: 16
@@ -666,7 +666,7 @@ function ProjectLinks({ code, video, link }) {
                 href: link,
                 target: "_blank",
                 rel: "noopener noreferrer",
-                className: "btn btn-sm btn-square bg-base-100/80 hover:bg-base-100 border border-base-content/80 backdrop-blur-sm",
+                className: "btn btn-sm btn-square bg-base-100/80 hover:bg-base-100 border border-base-content/80 backdrop-blur-sm shadow-none",
                 title: "Se mere",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Hjemmesider$2f$thomaseg$2e$dk$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$Documents$2f$Hjemmesider$2f$thomaseg$2e$dk$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$external$2d$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__ExternalLink$3e$__["ExternalLink"], {
                     size: 16
