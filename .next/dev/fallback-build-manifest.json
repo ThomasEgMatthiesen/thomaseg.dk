@@ -1,6 +1,30 @@
 {
   "pages": {
-    "/_app": []
+    "/_app": [
+      "static/chunks/0g8p_next_dist_compiled_0wd53be._.js",
+      "static/chunks/0g8p_next_dist_shared_lib_0zosun_._.js",
+      "static/chunks/0g8p_next_dist_client_0.yz4po._.js",
+      "static/chunks/0g8p_next_dist_0_n-udw._.js",
+      "static/chunks/0g8p_next_app_03vq_lm.js",
+      "static/chunks/[next]_entry_page-loader_ts_0-0ittd._.js",
+      "static/chunks/0g8p_react-dom_00.m_t-._.js",
+      "static/chunks/0g8p_11vqknq._.js",
+      "static/chunks/[root-of-the-server]__0alaorn._.js",
+      "static/chunks/Documents_Hjemmesider_thomaseg_dk_pages__app_07xvfw~._.js",
+      "static/chunks/turbopack-Documents_Hjemmesider_thomaseg_dk_pages__app_03s_gtq._.js"
+    ],
+    "/_error": [
+      "static/chunks/0g8p_next_dist_compiled_0wd53be._.js",
+      "static/chunks/0g8p_next_dist_shared_lib_0_z2wny._.js",
+      "static/chunks/0g8p_next_dist_client_0.yz4po._.js",
+      "static/chunks/0g8p_next_dist_0rah3ez._.js",
+      "static/chunks/[next]_entry_page-loader_ts_0zzawhv._.js",
+      "static/chunks/0g8p_react-dom_00.m_t-._.js",
+      "static/chunks/0g8p_11vqknq._.js",
+      "static/chunks/[root-of-the-server]__02s-rzt._.js",
+      "static/chunks/Documents_Hjemmesider_thomaseg_dk_pages__error_07xvfw~._.js",
+      "static/chunks/turbopack-Documents_Hjemmesider_thomaseg_dk_pages__error_0f7drn-._.js"
+    ]
   },
   "devFiles": [],
   "polyfillFiles": [],
