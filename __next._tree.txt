@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/0cwg8izxzxdhh.css","style"]
+:HL["/_next/static/chunks/05s1-tl6sx41v.css","style"]
 :HL["/_next/static/media/797e433ab948586e-s.p.0.q-h669a_dqa.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/caa3a2e1cccd8315-s.p.16t1db8_9y2o~.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/images/genhoer/genhoer_01.webp","image"]
@@ -93,4 +93,4 @@
 :HL["/images/dokkball/dokkball_02.webp","image"]
 :HL["/images/dokkball/dokkball_03.webp","image"]
 :HL["/images/dokkball/dokkball_04.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"ZlwxuJRgZ-j5ualIP-xnk"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"AZh4SYb1Cn7kQ8AtC-rjQ"}
