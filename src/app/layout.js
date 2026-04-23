@@ -2,8 +2,8 @@ import { Noto_Sans } from "next/font/google";
 import "./globals.css";
 
 const sans = Noto_Sans({
-    variable: "--font-sans",
-    subsets: ["latin"],
+  variable: "--font-sans",
+  subsets: ["latin"],
 });
 
 export const metadata = {
