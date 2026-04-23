@@ -7,8 +7,8 @@ const sans = Noto_Sans({
 });
 
 export const metadata = {
-  title: "Portfolio | Thomas Eg",
-  description: "Thomas Egs portfolio",
+  title: "Portfolio | Thomas Eg Matthiesen",
+  description: "Digital design - UX, audio og udvikling.",
 };
 
 export default function RootLayout({ children }) {
