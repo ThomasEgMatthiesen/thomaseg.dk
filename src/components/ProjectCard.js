@@ -8,10 +8,10 @@ export default function ProjectCard({ project }) {
       : []
 
   return (
-    <div className="card bg-base-200 w-full shadow-sm hover:shadow-xl transition h-full flex flex-col">
+    <div className="card bg-base-200 w-full h-full shadow-lg flex flex-col overflow-hidden">
 
-      <div className="relative aspect-square overflow-hidden">
-        <figure className="hover-gallery w-full h-full">
+      <div className="relative aspect-square">
+        <figure className="hover-gallery size-full">
           {project.images.map((image, i) => (
             <img key={image} src={image} alt={`${project.title} billede ${i + 1}`} />
           ))}
