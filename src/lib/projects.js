@@ -17,7 +17,7 @@ export const projects = [
     {
         year: 2025,
         title: "Cirkulær  afspiller",
-        description: "Musikafspiller-overlay med cirkulær scrubber, segmentinfo og værk-oversigt. Styret via URL-parametre til direkte henvisning med QR-kode.",
+        description: "Lydafspiller-overlay med cirkulær scrubber, segmentinfo og værk-oversigt. Styret via URL-parametre til direkte henvisning med QR-kode.",
         tags: ["Next.js", "Web Audio API"],
         code: "https://github.com/genhoerDK/genhoer.dk/blob/main/src/components/Player/Player.js",
         video: "",
