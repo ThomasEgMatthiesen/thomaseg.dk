@@ -2,7 +2,7 @@ export const projects = [
     {
         year: 2025,
         title: "www.genhør.dk",
-        description: "",
+        description: "Hjemmeside for kulturprojektet Genhør med projektoverblik og -sider.",
         tags: ["Next.js", "Tailwind CSS"],
         code: "https://github.com/genhoerDK/genhoer.dk",
         video: "",
@@ -17,7 +17,7 @@ export const projects = [
     {
         year: 2025,
         title: "Cirkulær  afspiller",
-        description: "",
+        description: "Musikafspiller-overlay med cirkulær scrubber, segmentinfo og værk-oversigt. Styret via URL-parametre til direkte henvisning med QR-kode.",
         tags: ["Next.js", "Web Audio API"],
         code: "https://github.com/genhoerDK/genhoer.dk/blob/main/src/components/Player/Player.js",
         video: "",
@@ -32,7 +32,7 @@ export const projects = [
     {
         year: 2025,
         title: "Responsivt projektkort",
-        description: "",
+        description: "Kortoverlay-komponent der viser projekter på et kort med responsivt layout. Lille version med zoom-kontroll på mobil. Stor version m. hover-zoom på desktop.",
         tags: ["Next.js", "D3.js"],
         code: "https://github.com/genhoerDK/genhoer.dk/blob/main/src/components/Map/Map.js",
         video: "",
@@ -62,7 +62,7 @@ export const projects = [
     {
         year: 2024,
         title: "Før- og efterbillede slider",
-        description: "",
+        description: "Sammenligning af før- og efter-billede med slider.",
         tags: ["Frontend", "UI"],
         code: "https://codepen.io/ThomasEgMatthiesen/pen/GRVRBYK",
         video: "",
@@ -78,7 +78,7 @@ export const projects = [
     {
         year: 2024,
         title: "Genhør Grindsted Station",
-        description: "Lydinstallation med mmWave sensorinput.",
+        description: "C++ og Pure Data program til kvadrofonisk lydinstallation på Bela. Aktiveres af mmWave bevægelsessensorer.",
         tags: ["Bela Platform", "C++", "Pure Data"],
         code: "https://github.com/ThomasEgMatthiesen/genhoer-grindsted-station",
         video: "",
@@ -93,7 +93,7 @@ export const projects = [
     {
         year: 2024,
         title: "www.thomaseg.dk v2",
-        description: "",
+        description: "Personlig portfolio-side med projektgalleri og biografi bygget i React + Tailwind CSS",
         tags: ["React", "Tailwind CSS"],
         code: "https://github.com/ThomasEgMatthiesen/thomaseg-portfolio-2",
         video: "https://drive.google.com/file/d/1efuOTnfW1SW6d8FW4rE_fWBRDVQNwcGn/view?usp=drive_link",
@@ -108,8 +108,8 @@ export const projects = [
     {
         year: 2024,
         title: "Uendeligt galleri",
-        description: "",
-        tags: ["HTML", "CSS", "JavaScript"],
+        description: "Uendeligt scroll-galleri med tilfældige billeder af ræve der fades ind via Intersection Observer.",
+        tags: ["JavaScript"],
         code: "https://codepen.io/ThomasEgMatthiesen/pen/zYVWVMB",
         video: "",
         link: "https://codepen.io/ThomasEgMatthiesen/full/zYVWVMB",
@@ -123,7 +123,7 @@ export const projects = [
     {
         year: 2023,
         title: "www.thomaseg.dk v1",
-        description: "",
+        description: "Personlig portfolio-side med projektgalleri og biografi bygget i HTML, CSS og JavaScript.",
         tags: ["HTML", "CSS", "JavaScript"],
         code: "https://github.com/ThomasEgMatthiesen/thomaseg-portfolio-1",
         video: "https://drive.google.com/file/d/10IM9ZB47sF-jjPGnIL0C040ExiEbpYTF/view?usp=drive_link",
@@ -138,7 +138,7 @@ export const projects = [
     {
         year: 2023,
         title: "Interaktivt projektkort og karrusel",
-        description: "",
+        description: "Interaktivt danmarkskort hvor man kan klikke på udstillingssteder og se info. Erstattes responsivt af karrusel.",
         tags: ["HTML", "CSS", "JavaScript"],
         code: "https://codepen.io/ThomasEgMatthiesen/pen/dyEeBxy",
         video: "",
@@ -153,7 +153,7 @@ export const projects = [
     {
         year: 2023,
         title: "Interaktivt diagram",
-        description: "",
+        description: "Interaktivt søjlediagram over branding-virkemidlers udbredelse og effektivitet. Skifter datasæt ved hover.",
         tags: ["HTML", "CSS", "JavaScript"],
         code: "https://codepen.io/ThomasEgMatthiesen/pen/dyEoOed",
         video: "",
@@ -169,7 +169,7 @@ export const projects = [
     {
         year: 2023,
         title: "Opening Icon Animation",
-        description: "",
+        description: "Animeret loading-screen hvor logoet roterer til en tilfældig position og splittes i to inden siden vises.",
         tags: ["HTML", "CSS", "JavaScript"],
         code: "https://codepen.io/ThomasEgMatthiesen/pen/Pogvazb",
         video: "",
@@ -184,7 +184,7 @@ export const projects = [
     {
         year: 2023,
         title: "www.hoerbar.dk",
-        description: "",
+        description: "Hjemmesidearkiv for www.hørbar.dk v1-3. Bygget med HTML, CSS og JavaScript + Web Audio API.",
         tags: ["HTML", "CSS", "JavaScript"],
         code: "https://github.com/ThomasEgMatthiesen/hoerbar-website",
         video: "https://drive.google.com/file/d/1wc6-1VTWe1Fx6yJrKLd7eOPUhbMz5HZQ/view?usp=drive_link",
@@ -319,7 +319,7 @@ export const projects = [
     {
         year: 2018,
         title: "Gender Neutralizer",
-        description: "Chrome extenseion der neutraliserer browseren for kønnede ord.",
+        description: "Chrome extension der neutraliserer browseren for kønnede ord.",
         tags: ["Udvidelse (Chrome)", "JavaScript"],
         code: "https://github.com/ThomasEgMatthiesen/gender_neutralizer",
         video: "https://drive.google.com/file/d/1oLde9s9erjmzfr6rIEqrgrgVFEU4KAdR/view?usp=drive_link",
