@@ -247,7 +247,7 @@ export const projects = [
         description: "Interaktivt lydværk med minimalistisk brugerflade. Brugeren kan variere men aldrig fuldt ud kontrollere lydbilledet.",
         tags: ["Arduino", "Max/MSP"],
         code: "https://github.com/ThomasEgMatthiesen/stoic-spheres",
-        video: "https://drive.google.com/file/d/1U2ljxbcPlTtPGOPvJKRUbmvzyi-xEnm2/view?usp=drive_link",
+        video: "https://drive.google.com/file/d/1ZgxYvb4a_1uR-jn645juyf7kNIBBgMyM/view?usp=sharing",
         link: "",
         images: [
             "/images/stoiske-sfaerer/stoiske-sfaerer_03.webp",
