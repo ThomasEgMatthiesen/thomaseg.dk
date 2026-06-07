@@ -96,7 +96,7 @@ export const projects = [
         description: "Personlig portfolio-side med projektgalleri og biografi bygget i React + Tailwind CSS",
         tags: ["React", "Tailwind CSS"],
         code: "https://github.com/ThomasEgMatthiesen/thomaseg-portfolio-2",
-        video: "https://drive.google.com/file/d/1efuOTnfW1SW6d8FW4rE_fWBRDVQNwcGn/view?usp=drive_link",
+        video: "https://drive.google.com/file/d/1efuOTnfW1SW6d8FW4rE_fWBRDVQNwcGn/view?usp=sharing",
         link: "",
         images: [
             "/images/thomaseg-v2/thomaseg-v2_01.webp",
@@ -126,7 +126,7 @@ export const projects = [
         description: "Personlig portfolio-side med projektgalleri og biografi bygget i HTML, CSS og JavaScript.",
         tags: ["HTML", "CSS", "JavaScript"],
         code: "https://github.com/ThomasEgMatthiesen/thomaseg-portfolio-1",
-        video: "https://drive.google.com/file/d/10IM9ZB47sF-jjPGnIL0C040ExiEbpYTF/view?usp=drive_link",
+        video: "https://drive.google.com/file/d/10IM9ZB47sF-jjPGnIL0C040ExiEbpYTF/view?usp=sharing",
         link: "",
         images: [
             "/images/thomaseg-v1/thomaseg-v1_02.webp",
@@ -187,7 +187,7 @@ export const projects = [
         description: "Hjemmesidearkiv for www.hørbar.dk v1-3. Bygget med HTML, CSS og JavaScript + Web Audio API.",
         tags: ["HTML", "CSS", "JavaScript"],
         code: "https://github.com/ThomasEgMatthiesen/hoerbar-website",
-        video: "https://drive.google.com/file/d/1wc6-1VTWe1Fx6yJrKLd7eOPUhbMz5HZQ/view?usp=drive_link",
+        video: "https://drive.google.com/file/d/1wc6-1VTWe1Fx6yJrKLd7eOPUhbMz5HZQ/view?usp=sharing",
         link: "",
         images: [
             "/images/hoerbar/hoerbar_04.webp",
@@ -202,7 +202,7 @@ export const projects = [
         description: "Interaktiv prototype der udforsker en dynamisk tilgang akustisk behandling. Roterbare prismer ændrer panelet fra absorberende til reflekterende.",
         tags: ["Akustik", "Prototyping", "Arduino"],
         code: "https://github.com/ThomasEgMatthiesen/dynacoustic",
-        video: "https://drive.google.com/file/d/18NlZyzrU2tn-EPHiitPhjmoD-7suRHZ5/view?usp=drive_link",
+        video: "https://drive.google.com/file/d/18NlZyzrU2tn-EPHiitPhjmoD-7suRHZ5/view?usp=sharing",
         link: "",
         images: [
             "/images/dynakustisk/dynakustisk_01.webp",
@@ -247,7 +247,7 @@ export const projects = [
         description: "Interaktivt lydværk med minimalistisk brugerflade. Brugeren kan variere men aldrig fuldt ud kontrollere lydbilledet.",
         tags: ["Arduino", "Max/MSP"],
         code: "https://github.com/ThomasEgMatthiesen/stoic-spheres",
-        video: "https://drive.google.com/file/d/1ZgxYvb4a_1uR-jn645juyf7kNIBBgMyM/view?usp=sharing",
+        video: "https://drive.google.com/file/d/1U2ljxbcPlTtPGOPvJKRUbmvzyi-xEnm2/view?usp=sharing",
         link: "",
         images: [
             "/images/stoiske-sfaerer/stoiske-sfaerer_03.webp",
@@ -262,7 +262,7 @@ export const projects = [
         description: "Simulerer lydens rejse til bunden af Marianergraven. En lydfil bearbejdes med kompression, rumklang og EQ. En abstraktion af dybdepres, lys og temperatur.",
         tags: ["Max/MSP", "Lydværk"],
         code: "",
-        video: "https://drive.google.com/file/d/1HOQEs8koknFj2a_dlXjmGRxLcKYI2hSZ/view?usp=drive_link",
+        video: "https://drive.google.com/file/d/1HOQEs8koknFj2a_dlXjmGRxLcKYI2hSZ/view?usp=sharing",
         link: "",
         images: [
             "/images/11012/11012_02.webp",
@@ -277,7 +277,7 @@ export const projects = [
         description: "Bruger realtidsdata om ISS til at sonificere afstanden mellem en placering og rumstationen med lydsyntese og effekter.",
         tags: ["Max/MSP", "API"],
         code: "https://github.com/ThomasEgMatthiesen/sonification-of-the-iss",
-        video: "https://drive.google.com/file/d/1JKyZEC_PHIulG3P7pkAt8yStnmM1vE9H/view?usp=drive_link",
+        video: "https://drive.google.com/file/d/1JKyZEC_PHIulG3P7pkAt8yStnmM1vE9H/view?usp=sharing",
         link: "",
         images: [
             "/images/sonificering-af-iss/sonificering-af-iss_01.webp",
@@ -292,7 +292,7 @@ export const projects = [
         description: "Mix af musik med gestikulation og stemme. Prototype på en skærmfri tilgang til lydproduktion.",
         tags: ["Multimodal", "Creative Coding"],
         code: "https://github.com/ThomasEgMatthiesen/gesture-and-voice-controlled-daw",
-        video: "https://drive.google.com/file/d/190XLuPEbGE-MnHC-buZfd7_EbM_bVwxo/view?usp=drive_link",
+        video: "https://drive.google.com/file/d/190XLuPEbGE-MnHC-buZfd7_EbM_bVwxo/view?usp=sharing",
         link: "",
         images: [
             "/images/gestik-og-stemmestyret-daw/gestik-og-stemmestyret-daw_01.webp",
@@ -307,7 +307,7 @@ export const projects = [
         description: "Prototype på en cykellygte som assistere brugeren i sikker cykelparkering.",
         tags: ["Prototyping", "IoT", "Arduino"],
         code: "",
-        video: "https://drive.google.com/file/d/1mWf1E9loCM6OXZMt_73TqfM5eA9iVpZF/view?usp=drive_link",
+        video: "https://drive.google.com/file/d/1mWf1E9loCM6OXZMt_73TqfM5eA9iVpZF/view?usp=sharing",
         link: "",
         images: [
             "/images/parkeringslygten/parkeringslygten_01.webp",
@@ -322,7 +322,7 @@ export const projects = [
         description: "Chrome extension der neutraliserer browseren for kønnede ord.",
         tags: ["Udvidelse (Chrome)", "JavaScript"],
         code: "https://github.com/ThomasEgMatthiesen/gender_neutralizer",
-        video: "https://drive.google.com/file/d/1oLde9s9erjmzfr6rIEqrgrgVFEU4KAdR/view?usp=drive_link",
+        video: "https://drive.google.com/file/d/1oLde9s9erjmzfr6rIEqrgrgVFEU4KAdR/view?usp=sharing",
         link: "",
         images: [
             "/images/gender-neutralizer/gender-neutralizer_03.webp",
@@ -337,7 +337,7 @@ export const projects = [
         description: "Interaktionsdesign der aktiverer byrummet omkring trappen ved Dokk1 i Aarhus.",
         tags: ["Koncept", "Workshop"],
         code: "",
-        video: "https://drive.google.com/open?id=1cI2e7O3KcVq8s-Ta9XyWIOVYM-EWhgkq&usp=drive_copy",
+        video: "https://drive.google.com/file/d/1cI2e7O3KcVq8s-Ta9XyWIOVYM-EWhgkq/view?usp=sharing",
         link: "",
         images: [
             "/images/dokkball/dokkball_01.webp",
