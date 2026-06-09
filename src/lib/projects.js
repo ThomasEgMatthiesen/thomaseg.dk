@@ -1,9 +1,9 @@
 export const projects = [
     {
-        year: 2025,
+        year: 2026,
         title: "Solcelledrevet lydsystem",
-        description: "Strømeffektivt lydsystem til udstillingen 'Kanon i G3'. Forsynet af solcelle og batteri",
-        tags: ["Next.js", "Tailwind CSS"],
+        description: "Strømeffektivt lydsystem til udstillingen 'Kanon i G3' i bunker på Bornholm.",
+        tags: ["Elektronik", "Audio design", "Lydinstallation"],
         code: "https://github.com/ThomasEgMatthiesen/kanon-i-g3",
         video: "",
         link: "https://www.genhoer.dk/kanon-i-g3",
