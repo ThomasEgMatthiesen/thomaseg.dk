@@ -11,7 +11,7 @@ export const projects = [
             "/images/solcelledrevet-lydsystem/solcelledrevet-lydsystem_01.webp",
             "/images/solcelledrevet-lydsystem/solcelledrevet-lydsystem_02.webp",
             "/images/solcelledrevet-lydsystem/solcelledrevet-lydsystem_03.webp",
-            "/images/solcelledrevet-lydsystem/solcelledrevet-lydsystem_04.webp"
+            "/images/solcelledrevet-lydsystem/solcelledrevet-lydsystem_02.webp"
         ]
     },
     {
